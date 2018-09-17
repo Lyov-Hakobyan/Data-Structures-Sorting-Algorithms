@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\User\Desktop\LyoV\BootCamp\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+D:\LyoV\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\LyoV\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\LyoV\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\LyoV\LinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\LyoV\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\LyoV\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\LyoV\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+C:\Users\User\Desktop\LyoV\BootCamp\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb
+D:\LyoV\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+D:\LyoV\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+D:\LyoV\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+D:\LyoV\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csprojAssemblyReference.cache
+D:\LyoV\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.CoreCompileInputs.cache
+D:\LyoV\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+D:\LyoV\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb
